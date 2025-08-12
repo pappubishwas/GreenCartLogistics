@@ -166,7 +166,7 @@ VITE_API_URL=http://localhost:5000/api
 ---
 
 ## Website Link
-\[https://green-cart-logistics-6lfh.vercel.app/]
+https://green-cart-logistics-6lfh.vercel.app/
 
 ## 📹 Walkthrough Video
 
