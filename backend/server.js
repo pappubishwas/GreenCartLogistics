@@ -26,8 +26,15 @@ app.use('/api/simulation', simulationRoutes);
 // health
 app.get('/api/health', (req, res) => res.json({ ok: true }));
 
+
+app.get("/", (req, res) => {
+  res.send("API working");
+});
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
+
+
 
 module.exports = app; 
