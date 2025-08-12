@@ -1,5 +1,3 @@
-
-
 # GreenCart Logistics – Delivery Simulation & KPI Dashboard
 
 ## 📌 Project Overview
@@ -53,8 +51,8 @@ Managers can experiment with staffing levels, delivery schedules, and route allo
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo_url>
-cd <repo_folder>
+git clone https://github.com/pappubishwas/GreenCartLogistics.git
+cd GreenCartLogistics
 ```
 
 ### 2. Backend Setup
@@ -104,7 +102,7 @@ VITE_API_URL=http://localhost:5000/api
 
 ### Backend
 
-* Deploy to Render / Railway / Heroku / AWS
+* Deploy to Vercel / Render / Railway / Heroku / AWS
 * Set environment variables in the hosting platform.
 * Ensure CORS is configured for the frontend domain.
 
@@ -167,7 +165,11 @@ VITE_API_URL=http://localhost:5000/api
 
 ---
 
+## Website Link
+\[https://green-cart-logistics-6lfh.vercel.app/]
+
 ## 📹 Walkthrough Video
 
 \[Video Link Placeholder]
+
 
